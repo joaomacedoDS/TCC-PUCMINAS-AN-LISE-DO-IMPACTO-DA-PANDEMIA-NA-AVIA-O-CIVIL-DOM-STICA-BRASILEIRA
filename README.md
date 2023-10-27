@@ -12,5 +12,7 @@ O objetivo deste trabalho é aplicar conceitos estatísticos e de Machine Learni
  # Notebook
  [projeto](https://github.com/joaomacedoDS/TCC-PUCMINAS-AN-LISE-DO-IMPACTO-DA-PANDEMIA-NA-AVIA-O-CIVIL-DOM-STICA-BRASILEIRA/blob/master/TCC_PUCMG_Jo%C3%A3o_Vitor_Macedo.ipynb)
 
+# Relatório
+[relatório impacto das variáveis](relatorio_impacto_das_variaveis.html)
 # Autor
 João Vitor Macedo
