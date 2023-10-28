@@ -5,7 +5,7 @@ O objetivo deste trabalho é aplicar conceitos estatísticos e de Machine Learni
 
 # Arquivos
  [dados tarifas](https://github.com/joaomacedoDS/TCC-PUCMINAS-AN-LISE-DO-IMPACTO-DA-PANDEMIA-NA-AVIA-O-CIVIL-DOM-STICA-BRASILEIRA/tree/master/dados%20tarifas)
- [dados pandemia] (dados pandemia/pandemia.csv)
+ [dados pandemia](https://github.com/joaomacedoDS/TCC-PUCMINAS-AN-LISE-DO-IMPACTO-DA-PANDEMIA-NA-AVIA-O-CIVIL-DOM-STICA-BRASILEIRA/blob/master/dados%20pandemia/pandemia.csv)
  [dados aeroportos](https://github.com/joaomacedoDS/TCC-PUCMINAS-AN-LISE-DO-IMPACTO-DA-PANDEMIA-NA-AVIA-O-CIVIL-DOM-STICA-BRASILEIRA/tree/master/dados%20aeroportos)
  [base principal](https://github.com/joaomacedoDS/TCC-PUCMINAS-AN-LISE-DO-IMPACTO-DA-PANDEMIA-NA-AVIA-O-CIVIL-DOM-STICA-BRASILEIRA/tree/master/dados%20aeroportos)
 
@@ -13,7 +13,7 @@ O objetivo deste trabalho é aplicar conceitos estatísticos e de Machine Learni
  [projeto](https://github.com/joaomacedoDS/TCC-PUCMINAS-AN-LISE-DO-IMPACTO-DA-PANDEMIA-NA-AVIA-O-CIVIL-DOM-STICA-BRASILEIRA/blob/master/TCC_PUCMG_Jo%C3%A3o_Vitor_Macedo.ipynb)
 
  # TCC
- [TCC escrito](TCC Ciência de Dados.docx.pdf)
+ [TCC escrito](https://github.com/joaomacedoDS/TCC-PUCMINAS-AN-LISE-DO-IMPACTO-DA-PANDEMIA-NA-AVIA-O-CIVIL-DOM-STICA-BRASILEIRA/blob/master/TCC%20Ci%C3%AAncia%20de%20Dados.docx.pdf)
 
 # Relatório
 [relatório impacto das variáveis](relatorio_impacto_das_variaveis.html)
